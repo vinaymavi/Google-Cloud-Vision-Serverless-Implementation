@@ -1,0 +1,28 @@
+{
+  "name": "Google-Cloud-Vision-Serverless-Implementation",
+  "version": "1.0.0",
+  "description": "Google Cloud Vision API is an image processing Google cloud service to detected and label images metadata and information. It can detect Faces, Logos, Landmark, and Text from images with predefined machine learning models with great accuracy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaymavi/Google-Cloud-Vision-Serverless-Implementation.git"
+  },
+  "keywords": [
+    "OCR",
+    "Image Processing",
+    "Google Cloud Vision"
+  ],
+  "author": "vinaymavi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinaymavi/Google-Cloud-Vision-Serverless-Implementation/issues"
+  },
+  "homepage": "https://github.com/vinaymavi/Google-Cloud-Vision-Serverless-Implementation#readme",
+  "dependencies": {
+    "@google-cloud/vision": "^0.25.0",
+    "immutable": "^4.0.0-rc.12"
+  }
+}
